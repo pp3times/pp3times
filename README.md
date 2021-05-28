@@ -1,4 +1,4 @@
-### Hi there, I'm Jeremy - aka [Pp3times][website] 👋
+### Hi there, I'm Jeremy - aka Pp3times 👋
 
 [![Website](https://img.shields.io/website?label=jrm.codingtime.dev&style=for-the-badge&url=https%3A%2F%2Fjrm.codingtime.com)](https://jrm.codingtime.dev/)
 
@@ -38,6 +38,13 @@
 
 <br />
 <br />
+
+
+
+<summary>:zap: GitHub Stats</summary><br />
+
+[![pp3times's GitHub stats](https://github-readme-stats.vercel.app/api?username=pp3times&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
