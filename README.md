@@ -4,7 +4,7 @@
 
 <!-- [![Website](https://img.shields.io/website?label=jrm.codingtime.dev&style=for-the-badge&url=https%3A%2F%2Fjrm.codingtime.com)](https://jrm.codingtime.dev/) -->
 
-<h3 align="center">I'm a Developer, and Creator!!</h3>
+<h3 align="center">I'm a Developer, and Creator!!</h3><br /><br />
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ![age](https://img.shields.io/badge/age-19-blue)
@@ -16,7 +16,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and become a Full Stack Developer
 - ⚡ Fun fact: I love to play game for get inspiration..
 
-
+<br />
 <!-- ### Connect with me:
 
 [<img align="left" alt="jrm.codingtime.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
