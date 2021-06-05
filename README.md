@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi there, I'm Jeremy - aka Pp3times <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-[![Website](https://img.shields.io/website?label=jrm.codingtime.dev&style=for-the-badge&url=https%3A%2F%2Fjrm.codingtime.com)](https://jrm.codingtime.dev/)
+<!-- [![Website](https://img.shields.io/website?label=jrm.codingtime.dev&style=for-the-badge&url=https%3A%2F%2Fjrm.codingtime.com)](https://jrm.codingtime.dev/) -->
 
 <h3 align="center">I'm a Developer, and Creator!!</h3>
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
