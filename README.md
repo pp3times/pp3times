@@ -5,7 +5,7 @@
 <!-- [![Website](https://img.shields.io/website?label=jrm.codingtime.dev&style=for-the-badge&url=https%3A%2F%2Fjrm.codingtime.com)](https://jrm.codingtime.dev/) -->
 
 <h3 align="center">I'm a Developer, and Creator!!</h3><br /><br />
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 ![age](https://img.shields.io/badge/age-19-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
