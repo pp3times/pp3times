@@ -7,14 +7,32 @@
 <h3 align="center">I'm a Developer, and Creator!!</h3><br /><br />
 <!-- <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
-![age](https://img.shields.io/badge/age-19-blue)
+<!-- ![age](https://img.shields.io/badge/age-19-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Thailand-3c9)
+<samp>
 - 🔭 I just start my developer way
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and become a Full Stack Developer
 - ⚡ Fun fact: I love to play game for get inspiration..
+</samp> -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+    Hi there, I'm Thanawat J. - aka Jeremy :wave:<br>
+<!--     I'm a <em>Web Developer</em> and <em>Student</em>.<br> -->
+    A passionate <em>frontend developer</em> <em>student</em> from Thailand <br>
+    I have a great interest in artificial intelligence and Smart things.<br>
+    I love to play League of Legends and Minecraft.<br>
+    <br><img src="https://komarev.com/ghpvc/?username=pp3times&color=007aff&style=flat&label=Profile+Views">
+<!--     <br><br>:coffee: Wanna chat? :point_right: <a href="https://www.instagram.com/Pp_3times/">Instagram</a> -->
+    <br><br>:coffee: Wanna chat? :point_right: <a href="https://twitter.com/Jrm_3times">Twitter</a>
+  </samp>
+</p>
+
 
 <br />
 <!-- ### Connect with me:
@@ -46,7 +64,7 @@
 <br />
 <br /> -->
 
-## 👨‍💻 Languages and Tools
+<!-- ## 👨‍💻 Languages and Tools
 
 <div align="center">
   
@@ -57,7 +75,7 @@
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/css.png?raw=true" height="44" width="44">
 <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/html.png?raw=true" height="44" width="44">
 <!-- <img src="https://github.com/Subhampreet/Subhampreet/blob/master/logos/django.jpg?raw=true" height="60" width="60"> -->
-<!-- <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60"> -->
+<!-- <img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60"> --
 
 <br>
 
@@ -71,7 +89,7 @@
 
 </div>
 
-<br >
+<br > -->
 
 
 <!-- <summary>:zap: GitHub Stats</summary><br />
@@ -86,6 +104,9 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=pp3times&show_icons=true&hide_border=true&theme=dracula" width="45%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pp3times&theme=dracula" width="45%" >
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br>
 
