@@ -25,8 +25,8 @@
     Hi there, I'm Thanawat J. - aka Jeremy :wave:<br>
 <!--     I'm a <em>Web Developer</em> and <em>Student</em>.<br> -->
     A passionate <em>frontend developer</em> <em>student</em> from Thailand <br>
-    I have a great interest in artificial intelligence and Smart things.<br>
-    I love to play League of Legends and Minecraft.<br>
+    I have a great interest in Artificial Intelligence and Smart things.<br>
+<!--     I love to play League of Legends and Minecraft.<br> -->
     <br><img src="https://komarev.com/ghpvc/?username=pp3times&color=007aff&style=flat&label=Profile+Views">
 <!--     <br><br>:coffee: Wanna chat? :point_right: <a href="https://www.instagram.com/Pp_3times/">Instagram</a> -->
     <br><br>:coffee: Wanna chat? :point_right: <a href="https://twitter.com/Jrm_3times">Twitter</a>
