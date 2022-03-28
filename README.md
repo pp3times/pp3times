@@ -23,7 +23,7 @@
   <br><br>
   <samp>
     Hi there, I'm Thanawat J. - aka Jeremy :wave:<br>
-<!--     I'm a <em>Web Developer</em> and <em>Student</em>.<br> -->
+<!--     I'm a <em>Web Developer</em> and <em>Student at KMITL (IT)</em>.<br> -->
     A passionate <em>frontend developer</em> <em>student</em> from Thailand <br>
     I have a great interest in Artificial Intelligence and Smart things.<br>
 <!--     I love to play League of Legends and Minecraft.<br> -->
