@@ -12,19 +12,20 @@
     A passionate <em>frontend developer</em> <em>student</em> at KMITL (IT) from Thailand <br>
 <!--     I have a great interest in Artificial Intelligence and Smart things.<br> -->
     <br><img src="https://komarev.com/ghpvc/?username=pp3times&color=007aff&style=flat&label=Profile+Views">
-    <br><br>:coffee: Wanna chat? :point_right: <a href="https://twitter.com/pp3times">Twitter</a>
+    <br><br>:coffee: Wanna chat? :point_right: <a href="https://twitter.com/pp3times">Twitter | X</a>
   </samp>
 </p>
 
 <br />
-
+<!-- 
 <div align="center">
 
 
 ### Connect with me !
 
 
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pp_3times/)
+ [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pp_3times/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/Poom3times/)
 
 </div>
+-->
