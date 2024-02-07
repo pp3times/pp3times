@@ -10,7 +10,7 @@
   <samp>
     Hi there, I'm Thanawat J. - aka Jeremy :wave:<br>
     A passionate <em>frontend developer</em> <em>student</em> at KMITL (IT) from Thailand <br>
-    I have a great interest in Artificial Intelligence and Smart things.<br>
+<!--     I have a great interest in Artificial Intelligence and Smart things.<br> -->
     <br><img src="https://komarev.com/ghpvc/?username=pp3times&color=007aff&style=flat&label=Profile+Views">
     <br><br>:coffee: Wanna chat? :point_right: <a href="https://twitter.com/pp3times">Twitter</a>
   </samp>
